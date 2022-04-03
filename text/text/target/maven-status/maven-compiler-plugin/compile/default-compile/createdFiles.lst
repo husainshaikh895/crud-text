@@ -1,0 +1,4 @@
+com\incubyte\text\controller\ApiControllers.class
+com\incubyte\text\TextApplication.class
+repo\WordRepo.class
+models\Words.class
